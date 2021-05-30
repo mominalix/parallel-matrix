@@ -13,5 +13,5 @@ transferring to opencl and cuda from openmp throgh pipes
 opencl applies addition on both arrays and passes to opengl for visualization
 
 cuda applies addition on both arrays and passes to opengl for visualization
-
 OpenGL shows both input arrays visualizations for comparison
+
